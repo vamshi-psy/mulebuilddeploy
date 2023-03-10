@@ -35,7 +35,9 @@
 						<uri>https://anypoint.mulesoft.com</uri>
 						<target>mulenode1</target>
 						<targetType>server</targetType>
-						<authToken>71659b62-fa93-47fa-bbde-edf2b7b91ae1</authToken>
+						<connectedAppClientId>8080e0ece06b4d1c91668004716c7f44</connectedAppClientId>
+						<connectedAppClientSecret>3ABD4874cC644172933a676B5B49e84a</connectedAppClientSecret>
+						<connectedAppGrantType>client_credentials</connectedAppGrantType>
 						<environment>Sandbox</environment>
 						<properties>
 							<key>value</key>
